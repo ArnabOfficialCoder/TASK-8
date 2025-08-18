@@ -38,4 +38,10 @@ You will understand how to build a clean dashboard and summarize data visually f
 
 Tasks Did -
 
-1.
+1. Downloaded the Dataset from Kaggle.
+2. Imported the Data into Jupyter Notebook for Deliver Python output.
+3. Used Pandas for Cleaning and Exprted the Cleaned Dataset.
+4. Imported the Cleaned Dataset into Power BI for creating a Simple Sales Dashboard.
+5. Dashboard created into 3 parts - Visual, Dataset & Details parts.
+6. Linked all the parts into the Dashboard through Selection & Bookmark Links.
+7. Prepared Screenshots & PDF and Uploaded all the Documents & Files into Repo.
